@@ -12,10 +12,7 @@ I'm currently working DSA projects in C++ And also in Web development
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mr-ashutosh-maurya&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ashutosh-maurya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mr-ashutosh-maurya&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
